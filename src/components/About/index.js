@@ -7,7 +7,7 @@ function About() {
             <img src={require('../../assets/panik.png')} alt="panik"></img>
             <div>
                 <p>
-                    yadda yadda lorem ipsum i'm on a deadline
+                    An avid problem solver that enjoys solving interesting problems and challenges. I grew up in Saint Paul, Minnesota 
                 </p>
             </div>
         </section>
