@@ -23,6 +23,11 @@ function Portfolio() {
             Taskmaster Pro
           </a>
         </li>
+        <li>
+          <a href="https://i-can-hazz.herokuapp.com/">
+            I Can Haz
+          </a>
+        </li>
       </div>
     </section>
   );
